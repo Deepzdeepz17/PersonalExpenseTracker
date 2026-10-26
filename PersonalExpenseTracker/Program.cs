@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Personal Expense Tracker");
+Console.WriteLine("Welcome! Manage your expenses easily!");
 Console.WriteLine("-------------------------");
 
 Console.WriteLine("1. Add Expense");
